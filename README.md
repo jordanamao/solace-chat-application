@@ -12,4 +12,4 @@ To run the web-server, type the following command:
 mvn spring-boot:run
 ```
 
-Navigate to http://localhost:8081/ to bring up the chat application
+Navigate to http://localhost:9000/ to bring up the chat application
